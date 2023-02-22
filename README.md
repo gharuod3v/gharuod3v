@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=gabrielharuochiyoshi&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=gharuod3v&style=flat-square&color=blue" alt=""/>
   <h1>
   Hey there, my name is Gabriel
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -53,6 +53,6 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gabrielharuochiyoshi&theme=highcontrast&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gharuod3v&theme=highcontrast&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielharuochiyoshi&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gharuod3v&layout=compact&theme=vision-friendly-dark)
