@@ -9,12 +9,12 @@
   <img src="https://komarev.com/ghpvc/?username=gabrielharuochiyoshi&style=flat-square&color=blue" alt=""/>
   <h1>
   Hey there, my name is Gabriel
-  <img src="./99312-developer-skills.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/YWy93Zf9eW8RMlK0gK/giphy-downsized.gif" width="600" height="300"/>
+  <img src="./99312-developer-skills.gif" width="300" height="300"/>
 </div>
 
 
@@ -55,4 +55,4 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gharuod3v&theme=highcontrast&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gharuod3v&layout=compact&theme=vision-friendly-dark)
+[![Haruo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gharuod3v&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
