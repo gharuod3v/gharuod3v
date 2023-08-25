@@ -20,9 +20,9 @@
 
 ---
 
-I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+I am a Fullstack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to fullstack for building web and mobile applications.
 
 - :seedling: Always looking for new knowledge to get further into the career
 
